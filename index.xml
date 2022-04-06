@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julius von Rohrscheidt</title>
+    <link>https://julius-vr.github.io/</link>
+    <description>Recent content on Julius von Rohrscheidt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://julius-vr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>https://julius-vr.github.io/research/</link>
+      <pubDate>Wed, 06 Apr 2022 16:19:53 +0200</pubDate>
+      
+      <guid>https://julius-vr.github.io/research/</guid>
+      <description>Topological and geometric tools have recently shown to be highly fruitful in data analysis and machine learning, particularly thanks to persistent homology, which has been widely studied over the last years by both theorists and practitioners. Despite its use in a huge variety of domains, persistent homology naturally comes with limitations that lead to obstructions in the interpretation of this multi-scale invariant. In particular, the development of topological methods which are noise-robust and can be incorporated into machine learning workflows in a possibly generic way remains a key challenge in this field.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://julius-vr.github.io/contact/</link>
+      <pubDate>Wed, 06 Apr 2022 13:07:50 +0200</pubDate>
+      
+      <guid>https://julius-vr.github.io/contact/</guid>
+      <description>AIDOS Lab
+AI for Health, Building 58
+Helmholtz Center Munich
+Ingolstädter Landstraße 1
+85764 Munich
+Email: julius.rohrscheidt@helmholtz-muenchen.de</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://julius-vr.github.io/about/</link>
+      <pubDate>Wed, 06 Apr 2022 12:10:22 +0200</pubDate>
+      
+      <guid>https://julius-vr.github.io/about/</guid>
+      <description>Hi there, I&amp;rsquo;m Julius!
+I am currently working as a Doctoral Researcher at AIDOS Lab under the supervision of Dr. Bastian Rieck, which is part of the Institute of AI for Health at Helmholtz Munich. I am also a PhD Candidate under the co-supervision of Prof. Ulrich Bauer at Technical University of Munich.
+I studied mathematics at Ruprecht-Karls University in Heidelberg with the focus on Algebraic Topology for singular spaces (Generalized Intersection Homology Theories).</description>
+    </item>
+    
+  </channel>
+</rss>
